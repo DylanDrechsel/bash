@@ -1,0 +1,9 @@
+echo 
+echo My name is Dylan
+echo
+echo
+echo Current directory is:
+pwd
+echo
+echo
+echo goodbye

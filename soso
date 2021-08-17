@@ -1,0 +1,6 @@
+echo hello
+echo 
+echo my location:
+pwd
+echo
+echo "my files:"

@@ -1,0 +1,2 @@
+ls: cannot access 'not.here': No such file or directory
+-rwxrwxrwx 1 dylandrechsel dylandrechsel 7 Aug 12 13:48 myscript

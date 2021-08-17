@@ -1,0 +1,6 @@
+# simple copy
+#$0 $1   $2
+#SRC="$1"
+#DST="$2"
+cp "$1" "$2"
+echo "$0" : Copy Completed

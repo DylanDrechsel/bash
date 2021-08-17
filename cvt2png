@@ -1,0 +1,5 @@
+#
+# cvt2png: convert an image file to png
+#
+PIC=${1}
+convert "$PIC" "${PIC%.jpg}.png"
