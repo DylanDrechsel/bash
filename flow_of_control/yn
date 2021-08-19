@@ -1,0 +1,11 @@
+read -p "Answer yes or no: " ANS
+
+case "$ANS" in
+	[Yy]*) echo "OK"
+		;;
+	[Nn]*) echo "Negative"
+		;;
+	*) echo "Make up your mind"
+		exit 1
+			;;
+esac
