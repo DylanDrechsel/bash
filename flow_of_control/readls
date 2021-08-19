@@ -1,0 +1,3 @@
+read PERM LS USR GRP SIZ MON DAY YRTM FILENM
+
+echo "File: '$FILENM'" is $SIZ bytes long.
